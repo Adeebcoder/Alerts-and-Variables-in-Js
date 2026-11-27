@@ -14,7 +14,7 @@ alert("Happy Coding!")
 
 
 
-                    // chapter 6 to 9
+// chapter 6 to 9
 
 
 //  question 1
@@ -99,9 +99,9 @@ alert("Happy Coding!")
 
 
 
-                        // chapter 11 To 14
+// chapter 11 To 14
 
-                        
+
 // Question No. 1
 
 // var userCity = prompt("Enter your City Name")
@@ -360,6 +360,85 @@ alert("Happy Coding!")
 //     console.log("invalid time")
 // }
 
+
+
+// Chapter 14 To 16
+// ARRAYS
+
+// Question nmbr 1
+
+
+// var studentNames = [];
+
+// console.log(studentNames);
+
+// question nmbr 2
+
+// var students = new Array();
+// console.log(students);
+
+
+// question nmbr 3 
+
+// var fruits = ["Apple", "Mango", "Banana", "Orange"];
+
+// console.log(fruits);
+
+// question nmbr 4
+
+
+// var numbers = [10, 20, 30, 40, 50];
+// console.log(numbers);
+
+// question nmbr 5
+
+// var status = [true, false, true, false];
+// console.log(status);
+
+// question nmbr 6
+
+// var mixed = ["Adeeb", 25, true, "Karachi", 50];
+// console.log(mixed);
+
+// question nmbr 7
+
+// var colors = ["Red", "Green", "Blue"];
+
+// document.write("Original Array: " + colors + "<br>");
+
+// var addColor = prompt("Which color do you want to add at the beginning?");
+
+// colors.unshift(addColor);
+
+// document.write("Updated Array: " + colors);
+
+// question nmbr 7
+
+// var colors = ["Red", "Green", "Blue"];
+
+// console.log("Original Array:", colors);
+
+// var addColor = prompt("Which color do you want to add at the end?");
+
+// colors.push(addColor);
+
+// console.log("Updated Array:", colors);
+
+
+
+// chapter 17 to 20
+
+// question Number 1
+
+// var multiArray = [[], []];
+
+// console.log(multiArray);
+
+// question number 2
+
+for (var i = 1; i <= 10; i++) {
+    console.log(i);
+}
 
 
 
